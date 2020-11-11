@@ -6,3 +6,6 @@ https://static01.nyt.com/elections-assets/2020/data/api/2020-11-03/national-map-
 
 House:
 https://static01.nyt.com/elections-assets/2020/data/api/2020-11-03/national-map-page/national/house.json
+
+Example of fetching new JSON:
+curl "https://static01.nyt.com/elections-assets/2020/data/api/2020-11-03/national-map-page/national/house.json" | jq . > house_11-10.json
