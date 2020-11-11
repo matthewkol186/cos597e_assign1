@@ -1,0 +1,8 @@
+President:
+https://static01.nyt.com/elections-assets/2020/data/api/2020-11-03/votes-remaining-page/national/president.json
+
+Senate:
+https://static01.nyt.com/elections-assets/2020/data/api/2020-11-03/national-map-page/national/senate.json
+
+House:
+https://static01.nyt.com/elections-assets/2020/data/api/2020-11-03/national-map-page/national/house.json
